@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou estudando **NodeJS e ReactJS**
 
-- 👯 Estou procurando colaborar meu primeiro emprego com programação
+- 👯 Estou procurando meu primeiro emprego com programação
 
 - 📫 Como me contatar **alessandrovictor159@gmail.com**
 
