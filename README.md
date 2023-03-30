@@ -7,7 +7,7 @@
 
 - 👯 Estou procurando meu primeiro emprego com programação
 
-- 📫 Como me contatar **alessandrovictor159@gmail.com**
+- 📫 Como me contatar **dev.alessandrovpa@gmail.com**
 
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
