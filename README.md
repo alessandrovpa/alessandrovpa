@@ -3,9 +3,7 @@
 
 - 🔭 Atualmente estou fazendo a faculdade de **Ciência da Computação**
 
-- 🌱 Atualmente estou estudando **NodeJS e ReactJS**
-
-- 👯 Estou procurando meu primeiro emprego com programação
+- 👯 Desenvolvedor FullStack JR na HubLocal.
 
 - 📫 Como me contatar **dev.alessandrovpa@gmail.com**
 
