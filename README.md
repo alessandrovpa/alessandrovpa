@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou fazendo a faculdade de **Ciência da Computação**
 
-- 👯 Desenvolvedor FullStack JR na HubLocal.
+- 👯 Desenvolvedor FullStack na HubLocal.
 
 - 📫 Como me contatar **dev.alessandrovpa@gmail.com**
 
