@@ -1,8 +1,6 @@
 <h1 align="center">Olá, me chamo Alessandro Victor</h1>
 <h3 align="center">Estudante e apaixonado por programação</h3>
 
-- 🔭 Atualmente estou fazendo a faculdade de **Ciência da Computação**
-
 - 👯 Desenvolvedor FullStack na HubLocal.
 
 - 📫 Como me contatar **dev.alessandrovpa@gmail.com**
