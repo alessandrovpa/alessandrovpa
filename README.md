@@ -125,11 +125,3 @@ I am a results-oriented **Full Stack Developer** with 3 years of experience buil
 <a href="https://linkedin.com/in/alessandrovpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alessandrovpa" height="30" width="40" /></a>
 <a href="mailto:dev.alessandrovpa@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="30" /></a>
 </p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandrovpa&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alessandrovpa&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
-</p>
