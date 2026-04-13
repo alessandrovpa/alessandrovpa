@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me
-I am a results-oriented **Full Stack Developer** with 3 years of experience building scalable applications and optimizing cloud infrastructure. My focus is on creating high-performance systems using **Node.js (NestJS)** and **React**, with a strong background in **AWS** and **DevOps** automation.
+I am a **Full Stack Developer** with 3 years of experience building scalable applications and optimizing cloud infrastructure. My focus is on creating high-performance systems using **Node.js (NestJS)** and **React**, with a strong background in **AWS** and **DevOps** automation.
 
 - ⚡ **Most Recent Role:** Full Stack Developer at **Hublocal**, where I led infrastructure migrations and AI integrations.
 - 🎓 **Education:** B.S. in Computer Science (IBMR University Center).
